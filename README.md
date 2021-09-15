@@ -1,1 +1,1 @@
-# HTML-CSS-JavaScript for Developer
+# HTML-CSS-for Developer
